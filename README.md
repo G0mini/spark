@@ -9,6 +9,13 @@
 文章链接:
 https://mp.weixin.qq.com/s/251rqi8TzOva8PCsugbYOQ
 
+## v1.1
+### hash:
+#### SHA1 的 火花字典生成器.exe 哈希: 34d4e8e99ece9ef931e5b13345d1b15f61d3128f
+<img width="438" alt="image" src="https://user-images.githubusercontent.com/31945727/179483068-fa635c62-c320-4afd-abbf-ef4d9649d436.png">
+
+
+
 ### 每次都上传前一个版本。
 ### 最新版本见知识星球
 ### 八折优惠！！
