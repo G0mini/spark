@@ -3,11 +3,16 @@
 ### 欢迎表哥提出思路，使其更加完善。
 
 ## V1.0
-### 具体详情请移步公众号: 极梦C
+下载在右边的Releases中,
+<img width="1194" alt="image" src="https://user-images.githubusercontent.com/31945727/179916912-103980d2-68e3-4004-8fb6-1e5471f3b6f7.png">
+
+
+### 具体使用详情请移步公众号: 极梦C
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/31945727/179481795-adf9c5f6-caa0-4e91-a9aa-a35e44606413.png">
 
 文章链接:
 https://mp.weixin.qq.com/s/251rqi8TzOva8PCsugbYOQ
+
 
 ## v1.1
 ### hash:
