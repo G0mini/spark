@@ -16,6 +16,10 @@ https://mp.weixin.qq.com/s/251rqi8TzOva8PCsugbYOQ
 #### SHA1 的 火花字典生成器.exe 哈希: 34d4e8e99ece9ef931e5b13345d1b15f61d3128f
 <img width="438" alt="image" src="https://user-images.githubusercontent.com/31945727/179483068-fa635c62-c320-4afd-abbf-ef4d9649d436.png">
 
+## v1.2
+### SHA1 ：48693ae05d59265ddc96a5461b3fd4f2317f97e4
+#### MD5 ：2ba78a782d3412cc18f2ef99623bf0f4
+![image](https://user-images.githubusercontent.com/31945727/189805103-f1ba24b5-87d3-4770-8039-5a68e235a1e9.png)
 
 
 ### 每次都上传前一个版本。
