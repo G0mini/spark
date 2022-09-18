@@ -1,6 +1,7 @@
 # 一款可自定义自动字典生成器---火花(spark)
 ## 虽然无法未卜先知,立志让见过的密码都可以在火花的碰撞中诞生。
 ### 欢迎表哥提出思路，使其更加完善。
+#### 最新版本2.0 --见知识星球
 
 ## V1.0
 ### 下载在右边的Releases中,
@@ -20,6 +21,14 @@ https://mp.weixin.qq.com/s/251rqi8TzOva8PCsugbYOQ
 ### SHA1 ：48693ae05d59265ddc96a5461b3fd4f2317f97e4
 #### MD5 ：2ba78a782d3412cc18f2ef99623bf0f4
 ![image](https://user-images.githubusercontent.com/31945727/189805103-f1ba24b5-87d3-4770-8039-5a68e235a1e9.png)
+
+## v2.0大版本更新 hash碰撞+社工字典生成 --以发布知识星球
+### hash碰撞
+![image](https://user-images.githubusercontent.com/31945727/190884346-2e2e20b0-3490-4e63-9042-a97b649a2671.png)
+### 社工生成
+![image](https://user-images.githubusercontent.com/31945727/190884358-e533e4d5-199f-4da2-8773-0ae0cf409f75.png)
+### 参考链接
+https://mp.weixin.qq.com/s/YwMH1YUiJ8sIWMjlfznwvA
 
 
 ### 每次都上传前一个版本。
