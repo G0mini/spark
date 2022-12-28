@@ -40,7 +40,7 @@ https://mp.weixin.qq.com/s/YwMH1YUiJ8sIWMjlfznwvA
 
 ### 每次都上传前一个版本。
 ### 最新版本见知识星球
-### 联系客服,八折优惠！！
+
 
 <img width="988" alt="image" src="https://user-images.githubusercontent.com/31945727/179482316-6975ff06-9f25-4f2c-8005-6e487feb6f77.png">
 
