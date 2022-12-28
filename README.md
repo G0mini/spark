@@ -5,8 +5,6 @@
 ### 欢迎表哥提出思路，使其更加完善。
 #### 公众号/知识星球/github都可。
 
-### 最新版本2.0 --见知识星球
-
 ## 使用方式-参考b站
 https://www.bilibili.com/video/BV1LP4y1d7di?vd_source=cf1ca615cd7585ca648b5c5cbeaacb82
 
