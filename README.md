@@ -8,6 +8,12 @@
 ## 使用方式-参考b站
 https://www.bilibili.com/video/BV1LP4y1d7di?vd_source=cf1ca615cd7585ca648b5c5cbeaacb82
 
+## v2.1大更新(超强规则)--以发布知识星球
+### 具体使用详情请参考链接
+https://mp.weixin.qq.com/s/TMSxEGSnhhR7f-OebyLXdQ
+
+
+
 ## V1.0
 ### 下载在右边的Releases中,
 ### 具体使用详情请移步公众号: 极梦C
@@ -27,7 +33,8 @@ https://mp.weixin.qq.com/s/251rqi8TzOva8PCsugbYOQ
 #### MD5 ：2ba78a782d3412cc18f2ef99623bf0f4
 ![image](https://user-images.githubusercontent.com/31945727/189805103-f1ba24b5-87d3-4770-8039-5a68e235a1e9.png)
 
-## v2.0大版本更新 hash碰撞+社工字典生成 --以发布知识星球
+## v2.0大版本更新 hash碰撞+社工字典生成 
+#### v2.0hash验证 md5:51b834893e14125ddb8b53320929f12d
 ### hash碰撞
 ![image](https://user-images.githubusercontent.com/31945727/190884346-2e2e20b0-3490-4e63-9042-a97b649a2671.png)
 ### 社工生成
