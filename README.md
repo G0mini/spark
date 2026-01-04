@@ -6,9 +6,30 @@
 #### 公众号/知识星球/github都可。
 
 ## 使用方式-参考b站
+https://www.bilibili.com/video/BV1p7B6BmEUy/ 版本V3.1
 https://www.bilibili.com/video/BV1LP4y1d7di?vd_source=cf1ca615cd7585ca648b5c5cbeaacb82
 
-## v2.1大更新(超强规则)--以发布知识星球
+
+## V3.1超大更新(支持各种自定义,组合,社工字典等等)
+###  具体使用详情请参考链接
+https://www.bilibili.com/video/BV1p7B6BmEUy/
+md5 火花字典生成器V3.1.exe  win
+MD5 (火花字典生成器V3.1.exe) = c6bc1b1ebdee6e8f662c2af3f1a4cb66
+<img width="517" height="70" alt="image" src="https://github.com/user-attachments/assets/4954fb5a-e3b1-4276-b522-537633f50ca5" />
+md5 火花字典生成器V3.1 mac
+MD5 (火花字典生成器V3.1) = 841751cd268fe1b04668b78bd0aab69f
+<img width="499" height="76" alt="image" src="https://github.com/user-attachments/assets/8cedd504-535b-4960-9e0c-e52511cda5ab" />
+
+
+<img width="826" height="595" alt="image" src="https://github.com/user-attachments/assets/fdd878f8-1de6-4eb5-ad8e-e5289bdf7da0" />
+
+<img width="1560" height="686" alt="image" src="https://github.com/user-attachments/assets/16286e31-25af-4bc3-aca2-a7326cea0443" />
+
+<img width="820" height="514" alt="image" src="https://github.com/user-attachments/assets/39bf7604-e669-481b-b6fd-6374da67db62" />
+
+
+
+## v2.1大更新(超强规则)
 ### 具体使用详情请参考链接
 https://mp.weixin.qq.com/s/TMSxEGSnhhR7f-OebyLXdQ
 
