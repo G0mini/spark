@@ -6,18 +6,28 @@
 #### 公众号/知识星球/github都可。
 
 ## 使用方式-参考b站
+
 https://www.bilibili.com/video/BV1p7B6BmEUy/ 版本V3.1
+
 https://www.bilibili.com/video/BV1LP4y1d7di?vd_source=cf1ca615cd7585ca648b5c5cbeaacb82
 
 
 ## V3.1超大更新(支持各种自定义,组合,社工字典等等)
+
 ###  具体使用详情请参考链接
+
 https://www.bilibili.com/video/BV1p7B6BmEUy/
+
 md5 火花字典生成器V3.1.exe  win
+
 MD5 (火花字典生成器V3.1.exe) = c6bc1b1ebdee6e8f662c2af3f1a4cb66
+
 <img width="517" height="70" alt="image" src="https://github.com/user-attachments/assets/4954fb5a-e3b1-4276-b522-537633f50ca5" />
+
 md5 火花字典生成器V3.1 mac
+
 MD5 (火花字典生成器V3.1) = 841751cd268fe1b04668b78bd0aab69f
+
 <img width="499" height="76" alt="image" src="https://github.com/user-attachments/assets/8cedd504-535b-4960-9e0c-e52511cda5ab" />
 
 
