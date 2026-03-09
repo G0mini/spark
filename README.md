@@ -1,3 +1,35 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=it">Italiano</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=id">Bahasa Indonesia</a>
+        | <a href="https://openaitx.github.io/view.html?user=G0mini&project=spark&lang=as">অসমীয়া</
+      </div>
+    </div>
+  </details>
+</div>
+
 # 一款可自定义自动字典生成器---火花(spark)
 # 全自动字典生成---定向字典/社工字典/字典碰撞---火花(spark)
 # 希望表哥多点点start,激励继续更新。
